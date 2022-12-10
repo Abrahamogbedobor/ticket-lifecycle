@@ -43,14 +43,43 @@ Essentially, this stage involves creating new ticket for help desk administor to
 <img src="https://i.imgur.com/3YW1QPb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above figures shows osTicket professionals logging into osTicket platform, in order to resolved raised tickets from end-users. Notably, the first agent Jane Doe was unable to view or amend raised tickets after logging into the platform. This is because, permission was not granted to her by osTicket admin for that function thus, figure 3 and 4 are used to show the steps used by osTicket admin to grant permision to osTicket professionals.
+<img src="https://i.imgur.com/FBYTTv9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/3YW1QPb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The above figures shows osTicket professionals logging into osTicket platform, in order to resolved raised tickets from end-users. Notably, the first agent Jane Doe was unable to view or amend raised tickets after logging into the platform. This is because, permission was not granted to her by osTicket admin for that function thus, figure 3 and 4 below are used to show the steps used by osTicket admin to grant permision to Jane Doe.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YhiGJrt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/TdPhlhO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-It is important to take care of the patient, to be followed by the doctor, but it is a time of great pain and suffering. For to come to the smallest detail, no one should practice any kind of work unless he derives some benefit from it. Do not be angry with the pain in the reprimand in the pleasure he wants to be a hair from the pain in the hope that there is no breeding.
+After logging in as an agent, admin panel was then clicked to dispayed the above agent page, then the agent that needed permission was clicked to grant the necessary permission as shown above.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/YhiGJrt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+From 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/YhiGJrt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+From 
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/YhiGJrt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+From 
 </p>
 <br />
