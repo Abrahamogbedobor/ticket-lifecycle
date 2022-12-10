@@ -43,7 +43,7 @@ Essentially, this stage involves creating new ticket for help desk administor to
 <img src="https://i.imgur.com/3YW1QPb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above figure shows osTicket professional logging into osTicket platform, in order to resolved raised tickets from end-users. Notably, the first agent Jane Doe was unable to view neither amend the raised tickets after logging into the platform this is because, poermission was not granted to her by osTicket admin for that function. Thus, figure 3 and 4 are used to show the steps used by osTicket admin to grant permision to osTicket professionals. The steps used by osTicket professional in resolving raised ticket is shown in figure2 above.
+The above figures shows osTicket professionals logging into osTicket platform, in order to resolved raised tickets from end-users. Notably, the first agent Jane Doe was unable to view or amend raised tickets after logging into the platform. This is because, permission was not granted to her by osTicket admin for that function thus, figure 3 and 4 are used to show the steps used by osTicket admin to grant permision to osTicket professionals.
 </p>
 <br />
 
