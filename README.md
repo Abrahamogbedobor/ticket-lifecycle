@@ -40,11 +40,11 @@ Essentially, this stage involves creating new ticket for help desk administor to
 
 <p>
 <img src="https://i.imgur.com/HMg1eOZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/3YW1QPb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/BfcW0Me.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://i.imgur.com/FBYTTv9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/3YW1QPb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/FBYTTv9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The above figures shows osTicket professionals logging into osTicket platform, in order to resolved raised tickets from end-users. Notably, the first agent Jane Doe was unable to view or amend raised tickets after logging into the platform. This is because, permission was not granted to her by osTicket admin for that function thus, figure 3 and 4 below are used to show the steps used by osTicket admin to grant permision to Jane Doe.
