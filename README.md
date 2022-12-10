@@ -34,7 +34,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/7YveGfI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Essentially, this stage involves creating new ticket for help desk administor to resolved using the URL of osTicket end-users. The above figures shows the steps or stages that were used by end users to create a new ticket. Also, users could provide brief summary of the ticket they are reporting on the 'issue summary' section of the form as well as further details on the detail section.
+Essentially, this stage involves creating new ticket for help desk administor to resolved using the URL of osTicket end-users. The above figures shows the steps or stages that were used by end users to create a new ticket. Also, users could provide brief summary of the ticket they are reporting on the 'issue summary' section of the form as well as giving further details on reasons why the ticket is been raised.
 </p>
 <br />
 
