@@ -54,6 +54,7 @@ The above figures shows osTicket professionals logging into osTicket platform, i
 <p>
 <img src="https://i.imgur.com/YhiGJrt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/TdPhlhO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/teCvHST.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 After logging in as an agent, admin panel was then clicked to dispayed the above agent page, then the agent that needed permission was clicked to grant the necessary permission as shown above.
