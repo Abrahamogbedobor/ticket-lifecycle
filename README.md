@@ -39,7 +39,7 @@ Essentially, this stage involves creating new ticket for help desk administor to
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/1EP1mC0.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The above figure shows osTicket professional logging into osTicket platform, in order to resolved raised tickets from end-users. The steps used by osTicket professional in resolving raised ticket is shown in figure2 above.
