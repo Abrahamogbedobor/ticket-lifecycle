@@ -57,7 +57,7 @@ The above figures shows osTicket professionals logging into osTicket platform, i
 <img src="https://i.imgur.com/teCvHST.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above figures describes the steps used by osTicket admin to grant permision to Jane Doe After logging in as an agent. Firstly, admin panel was clicked to dispayed the above agent page secondly, the agent that needed permission was then clicked to grant the necessary permission as shown above.
+The above figures describes the steps used by osTicket admin to grant permision to Jane Doe After logging in as an agent. Firstly, admin panel was clicked to dispayed the above agent page secondly, the agent that needed permission was then clicked to grant the necessary permission as shown in the preceedings figures above.
 </p>
 <br />
 
