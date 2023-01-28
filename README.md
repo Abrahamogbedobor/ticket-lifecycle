@@ -34,7 +34,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/7YveGfI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Essentially, this stage involves creating new ticket for help desk administor to resolved using the URL of osTicket end-users. The above figures shows the steps or stages that were used by end users to create a new ticket. Also, users could provide brief summary of the ticket they are reporting on the 'issue summary' section of the form as well as giving further details on reasons why the ticket is been raised.
+Essentially, this stage involves creating new ticket for help desk professional to resolved using the URL of osTicket end-users. The above figures shows the steps or stages that were used by end users to create a new ticket. Also, users could provide brief summary of the ticket they are reporting on the 'issue summary' section of the form as well as giving further details on reasons why the ticket is been raised.
 </p>
 <br />
 
@@ -47,7 +47,7 @@ Essentially, this stage involves creating new ticket for help desk administor to
 <img src="https://i.imgur.com/FBYTTv9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above figures shows osTicket professionals logging into osTicket platform, in order to resolved raised tickets from end-users. Notably, the first agent Jane Doe was unable to view or amend raised tickets after logging into the platform unlike the second admin user as shown above. This is because, permission was not granted to Jane Doe by osTicket admin for that function.
+The above figures shows osTicket professionals logging into osTicket platform, in order to resolved raised tickets from end-users. Notably, the first agent Jane Doe was unable to view or amend raised tickets from  end-users after logging into the platform unlike the second admin user as shown above. This is because, permission was not granted to Jane Doe by osTicket admin for that function during the configuration stage.
 </p>
 <br />
 
