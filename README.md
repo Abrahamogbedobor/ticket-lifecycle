@@ -47,7 +47,7 @@ Essentially, this stage involves creating new ticket for help desk professional 
 <img src="https://i.imgur.com/FBYTTv9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above figures shows osTicket professionals logging into osTicket platform, in order to resolved raised tickets from end-users. Notably, the first agent Jane Doe was unable to view or amend raised tickets from  end-users after logging into the platform unlike the second admin user as shown above. This is because, permission was not granted to Jane Doe by osTicket admin for that function during the configuration stage.
+The above figures shows osTicket professionals logging into osTicket platform, in order to troubleshoot and resolved raised tickets from end-users. Notably, the first agent Jane Doe was unable to view or amend raised tickets from  end-users after logging into the platform as an admin whereas the second admin user as shown above was able to view and amend tickets. This is because, permission was not granted to Jane Doe during osTicket configuration stage.
 </p>
 <br />
 
