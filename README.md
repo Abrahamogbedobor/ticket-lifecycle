@@ -62,10 +62,10 @@ The above figures describes the steps used by osTicket admin to grant permision 
 <br />
 
 <p>
-<img src="https://i.imgur.com/YhiGJrt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/dHgE7X8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From 
+The above figure shows Jane Doe logging back to osTiceting platform after been granted supreme access by admin, this then enabled her to view, troubleshoot and amend tickets that are raised by end-users.
 </p>
 <br />
 
