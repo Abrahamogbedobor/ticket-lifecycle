@@ -47,7 +47,7 @@ Essentially, this stage involves creating new ticket for help desk professional 
 <img src="https://i.imgur.com/FBYTTv9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above figures shows osTicket professionals logging into osTicket platform, in order to troubleshoot and resolved raised tickets from end-users. Notably, the first agent Jane Doe was unable to view or amend raised tickets from  end-users after logging into the platform as an agent whereas the second user (admin) as shown above was able to view and amend tickets. This is because, permission was not granted to Jane Doe during osTicket configuration stage.
+The above figures shows osTicket professionals logging into osTicket platform, in order to troubleshoot and resolved raised tickets from end-users. Notably, the first agent Jane Doe was unable to view or amend raised tickets from  end-users after she logged-in as an agent whereas the second user (admin) as shown above was able to view and amend tickets. This is because, permission was not granted to Jane Doe during osTicket configuration stage.
 </p>
 <br />
 
@@ -57,7 +57,7 @@ The above figures shows osTicket professionals logging into osTicket platform, i
 <img src="https://i.imgur.com/teCvHST.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above figures describes the steps used by osTicket admin to grant permision to Jane Doe. Notably, the users with administrative privilege was referred to as admin on this lab. In granting permission to Jane Doe first, someone with admin access logged into osTicket admin page, then agent tab was clicked to dispayed the above agents page. Second, the agent that needed permission such as Jane Doe was then clicked. Finally, access tab was entered to grant the necessary permission to Jane Doe as shown above.
+The above figures describes the steps used by osTicket admin to grant permision to Jane Doe. Notably, the users with administrative privilege was referred to as admin on this lab. In granting permission to Jane Doe, firstly, someone with admin access logged into osTicket admin page, then agent tab was clicked to displayed the above agents page. Secondly, the agent that needed permission such as Jane Doe was then clicked. Finally, access tab was entered to grant the necessary permission to Jane Doe as shown above.
 </p>
 <br />
 
@@ -70,10 +70,10 @@ The above figure shows Jane Doe logging back to osTiceting platform after been g
 <br />
 
 <p>
-<img src="https://i.imgur.com/YhiGJrt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ms8UKdl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From 
+From the above figures, Jane Doe has successfully logged into osTicket platform to view and work on raised tickets.
 </p>
 <br />
 
