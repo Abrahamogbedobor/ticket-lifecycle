@@ -81,6 +81,6 @@ Jane Doe has successfully logged into osTicket platform with access to all raise
 <img src="https://i.imgur.com/yN5Xi9S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above figure shows the process used in assigning ticket to an agent 
+The above figure shows osTicket that was raised by an end-user. An agent name Jane Doe opened the ticket to check its content. The ticket says an entire online mobile banking is down.
 </p>
 <br />
