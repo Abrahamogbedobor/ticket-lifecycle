@@ -65,7 +65,7 @@ The above figures describes the steps used by osTicket admin to grant permision 
 <img src="https://i.imgur.com/dHgE7X8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above figure shows Jane Doe logging back to osTiceting platform after been granted supreme access by admin, this then enabled her to view, troubleshoot and amend tickets that are raised by end-users.
+The above figure shows Jane Doe logging back to osTicketing platform after been granted supreme admin access, this then enabled her to view, troubleshoot and amend tickets that are raised by end-users.
 </p>
 <br />
 
@@ -73,7 +73,7 @@ The above figure shows Jane Doe logging back to osTiceting platform after been g
 <img src="https://i.imgur.com/ms8UKdl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From the above figures, Jane Doe has successfully logged into osTicket platform to view and work on raised tickets.
+Jane Doe has successfully logged into osTicket platform with access to all raised tickets. Notably, the appeared tickets has not yet been prioritise in regards to their SLA impoortance. Also, at the right end, tickets will be assigned by queue manager to an agent.
 </p>
 <br />
 
