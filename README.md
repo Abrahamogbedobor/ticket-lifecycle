@@ -73,7 +73,7 @@ The above figure shows Jane Doe logging back to osTicketing platform after been 
 <img src="https://i.imgur.com/ms8UKdl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Jane Doe has successfully logged into osTicket platform with access to all raised tickets. Notably, the appeared tickets has not yet been prioritise in regards to their SLA impoortance. Also, at the right end, tickets will be assigned by queue manager to an agent.
+Jane Doe has successfully logged into osTicket platform with access to all raised tickets. Notably, the appeared tickets has not yet been prioritise in regards to their SLA impoortance. Also, at the right end, tickets will be assigned by queue manager to an agent after been prioritise according to their importance to the orgabisation.
 </p>
 <br />
 
@@ -81,6 +81,6 @@ Jane Doe has successfully logged into osTicket platform with access to all raise
 <img src="https://i.imgur.com/YhiGJrt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From 
+
 </p>
 <br />
