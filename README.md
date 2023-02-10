@@ -1,4 +1,4 @@
-<p align="center">
+.<p align="center">
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
@@ -83,4 +83,4 @@ Jane Doe has successfully logged into osTicket platform with access to all raise
 <p>
 The above figure shows osTicket that was raised by an end-user. An agent name Jane Doe opened the ticket to check its content. The ticket says an entire online mobile banking is down.
 </p>
-<br />
+<br /> you yo 
