@@ -80,8 +80,27 @@ Jane Doe has successfully logged into osTicket platform with access to all raise
 <p>
 <img src="https://i.imgur.com/yN5Xi9S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/pdJDghU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/XmTVea1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above figures shows osTicket that was raised by an end-user. An agent named Jane Doe opened the ticket to check its content. The ticket says an entire online mobile banking is down, assuming Jane is the queue manager resposnible for assigning tickets and setting up SLA, she then set-up tickets priority from "Normal to either low, high or emergency" as shown above.
+The above figures shows osTicket that was raised by an end-user. An agent named Jane Doe opened the ticket to check its content. The ticket says an entire online mobile banking is down, assuming Jane is the queue manager resposnible for assigning tickets and setting up SLA, she then set-up tickets priority from "Normal to either low, high or emergency" with some note beneath as shown above.
 </p>
 <br /> you yo 
+
+<p>
+<img src="https://i.imgur.com/yN5Xi9S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pdJDghU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The above
+</p>
+<br /> you yo
+
+<p>
+<img src="https://i.imgur.com/yN5Xi9S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pdJDghU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The above
+</p>
+<br /> you yo
