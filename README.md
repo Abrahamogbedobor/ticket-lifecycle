@@ -86,22 +86,20 @@ Jane Doe has successfully logged into osTicket platform with access to all raise
 <p>
 The above figures shows osTicket that was raised by an end-user. An agent named Jane Doe opened the ticket to check its content. The ticket says an entire online mobile banking is down, assuming Jane is the queue manager or escalation engineer resposnible for setting ticket priority, assigning tickets to agents, as well as setting up SLA plan. She then set-up tickets priority from "Normal to either low, high or emergency" with some note beneath. Also, tickets was assigned to particular agents, and SLA plan was set to SEV A, B or C as shown above.
 </p>
-<br /> you yo 
+<br />
 
 <p>
-<img src="https://i.imgur.com/yN5Xi9S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/pdJDghU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/a9zeHLY.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Notably, in some scenario customers would be able to set-up tickets SLA when raising tickets. In that case, queue manager could either downgrade its severity from A to B or C depending on its impact to the organisation.
+Notably, in some scenario customers would be able to set-up tickets SLA when raising tickets. In that case, queue manager could either downgrade its severity from A to B or C depending on its impact to the organisation. Furthermore, each time a ticket is amended or assigned to an agent there would be a ticket threads or histroy as shown above highlighting the various changes and time that a particular ticket is been amended.
 </p>
-<br /> you yo
+<br />
 
 <p>
-<img src="https://i.imgur.com/yN5Xi9S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/pdJDghU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8Px5skE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above
+After queue manager has finished amending and troubleshooting rausd ticket from end-user, the above figure then showed the tickets view.
 </p>
-<br /> you yo
+<br />
