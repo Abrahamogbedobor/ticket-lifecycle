@@ -73,14 +73,15 @@ The above figure shows Jane Doe logging back to osTicketing platform after been 
 <img src="https://i.imgur.com/ms8UKdl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Jane Doe has successfully logged into osTicket platform with access to all raised tickets. Notably, the appeared tickets has not yet been prioritise in regards to their SLA importance. Also, at the right end, tickets will be assigned by queue manager to an agent after been prioritise according to their importance to the orgabisation.
+Jane Doe has successfully logged into osTicket platform with access to all raised tickets. Notably, the appeared tickets has not yet been prioritise in regards to their SLA importance. Also, at the right end, tickets will be assigned by queue manager to an agent after been prioritise according to their importance to the organisation.
 </p>
 <br />
 
 <p>
 <img src="https://i.imgur.com/yN5Xi9S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/pdJDghU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above figure shows osTicket that was raised by an end-user. An agent name Jane Doe opened the ticket to check its content. The ticket says an entire online mobile banking is down.
+The above figures shows osTicket that was raised by an end-user. An agent named Jane Doe opened the ticket to check its content. The ticket says an entire online mobile banking is down, assuming Jane is the queue manager resposnible for assigning tickets and setting up SLA, she then set-up tickets priority from "Normal to either low, high or emergency" as shown above.
 </p>
 <br /> you yo 
