@@ -93,7 +93,7 @@ The above figures shows osTicket that was raised by an end-user. An agent named 
 <img src="https://i.imgur.com/pdJDghU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above
+Notably, in some scenario customers would be able to set-up tickets SLA when raising tickets. In that case, queue manager could either downgrade its severity from A to B or C depending on its impact to the organisation.
 </p>
 <br /> you yo
 
