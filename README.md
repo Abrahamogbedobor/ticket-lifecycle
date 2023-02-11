@@ -81,9 +81,10 @@ Jane Doe has successfully logged into osTicket platform with access to all raise
 <img src="https://i.imgur.com/yN5Xi9S.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/pdJDghU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <img src="https://i.imgur.com/XmTVea1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/91n8KZE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above figures shows osTicket that was raised by an end-user. An agent named Jane Doe opened the ticket to check its content. The ticket says an entire online mobile banking is down, assuming Jane is the queue manager resposnible for assigning tickets and setting up SLA, she then set-up tickets priority from "Normal to either low, high or emergency" with some note beneath as shown above.
+The above figures shows osTicket that was raised by an end-user. An agent named Jane Doe opened the ticket to check its content. The ticket says an entire online mobile banking is down, assuming Jane is the queue manager or escalation engineer resposnible for setting ticket priority, assigning tickets to agents, as well as setting up SLA plan. She then set-up tickets priority from "Normal to either low, high or emergency" with some note beneath. Also, tickets was assigned to particular agents, and SLA plan was set to SEV A, B or C as shown above.
 </p>
 <br /> you yo 
 
