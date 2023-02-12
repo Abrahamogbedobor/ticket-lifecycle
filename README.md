@@ -100,15 +100,15 @@ Notably, in some scenario customers would be able to set-up tickets SLA when rai
 <img src="https://i.imgur.com/8Px5skE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above figure shows the new inteface of raised tickets by end users after been amended by queue manager.
+The above figure shows the new interface of raised tickets by end users after been amended by queue manager.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/8Px5skE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YYnhP4q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The above figure shows the new inteface of raised tickets by end users after been amended by queue manager.
+Ticket has been assigned and resolved by an agent from system admin named Jerry with a short note added for admin team to be aware that a particular ticket has been resolved and also, the named agent who resolved it.
 </p>
 <br />
 
