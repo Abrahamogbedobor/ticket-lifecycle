@@ -100,6 +100,30 @@ Notably, in some scenario customers would be able to set-up tickets SLA when rai
 <img src="https://i.imgur.com/8Px5skE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-After queue manager has finished amending and troubleshooting rausd ticket from end-user, the above figure then showed the tickets view.
+The above figure shows the new inteface of raised tickets by end users after been amended by queue manager.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/8Px5skE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The above figure shows the new inteface of raised tickets by end users after been amended by queue manager.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/8Px5skE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The above figure shows the new inteface of raised tickets by end users after been amended by queue manager.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/8Px5skE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+The above figure shows the new inteface of raised tickets by end users after been amended by queue manager.
 </p>
 <br />
