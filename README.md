@@ -24,7 +24,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 - osTicket End-Users
 - osTicket Professional
-- Using osTicketing Platorm
+- Using osTicketing Platform
 - Resolution and Working out Issues
 
 <h2>Lifecycle Stages</h2>
