@@ -114,10 +114,10 @@ Ticket was assigned by queue manager to an agent, and such ticket has been resol
 <br />
 
 <p>
-<img src="https://i.imgur.com/8Px5skE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/hXxGFVZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The
+The above figure shows the interface of closed ticket in osTicketing platform. This allows new employees to have a refresher on the approach used by previous employees to troubleshoo and amend raised tickets.
 </p>
 <br />
 
@@ -125,6 +125,6 @@ The
 <img src="https://i.imgur.com/8Px5skE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-T
+Learn what osTicket was, virtual machine in Asure, install all pre-requisite, install osTicket itself, configure it with SLA and users, created a few tickets with different severity and SLA levels, used various helpdesk profession to log in and solved ticketing issues.
 </p>
 <br />
